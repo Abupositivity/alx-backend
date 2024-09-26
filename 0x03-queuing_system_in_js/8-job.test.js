@@ -1,4 +1,4 @@
-#!/usr/bin/yarn test
+#!/usr/bin/node
 import sinon from 'sinon';
 import { expect } from 'chai';
 import { createQueue } from 'kue';

@@ -1,4 +1,4 @@
-#!/usr/bin/yarn dev
+#!/usr/bin/node
 import express from 'express';
 import { promisify } from 'util';
 import { createClient } from 'redis';

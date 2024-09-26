@@ -1,4 +1,4 @@
-#!/usr/bin/yarn dev
+#!/usr/bin/node
 import { promisify } from 'util';
 import { createClient, print } from 'redis';
 
